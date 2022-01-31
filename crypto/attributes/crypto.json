@@ -1944,6 +1944,20 @@
       ]
     },
     {
+      "s": "HUOBI:BTTBTC",
+      "f": [
+        "BitTorrent",
+        "BTT"
+      ]
+    },
+    {
+      "s": "BITFINEX:BTTUSD",
+      "f": [
+        "BitTorrent",
+        "BTT"
+      ]
+    },    
+    {
       "s": "BINANCE:BTSUSD",
       "f": [
         "BitShares",
